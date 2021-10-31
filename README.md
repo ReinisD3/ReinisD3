@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working with PHP, MySQL developing Web applications.
 
-- 📫 Reach me on https://www.linkedin.com/in/reinis-detlavs-504b98222/
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/reinis-detlavs-504b98222/) 
 
 
 <!---
